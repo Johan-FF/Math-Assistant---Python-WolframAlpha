@@ -1,0 +1,14 @@
+certifi==2023.5.7
+charset-normalizer==3.1.0
+idna==3.4
+jaraco.context==4.3.0
+more-itertools==9.1.0
+Pillow==9.5.0
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.1
+python-dotenv==1.0.0
+requests==2.31.0
+urllib3==2.0.2
+wolframalpha==5.0.0
+xmltodict==0.13.0
